@@ -1,0 +1,86 @@
+
+body {
+  width:50%;
+  height: 30%;
+  margin: 5px auto;
+  padding: 10px;
+  font-size: 100%;
+  background: #F8F8FF;
+}
+
+.header {
+  width: 85%;
+  margin: 5px auto;
+  padding: 10px;
+  color: white;
+  background: dodgerblue;
+  text-align: center;
+  border: 1px solid #B0C4DE;
+  border-bottom: none;
+  border-radius: 10px 10px;
+  
+}
+form{
+  text-align: left;
+  font-family: italic;
+  width: 50%;
+  margin: 10px auto;
+  padding: 30px;
+  border: 1px solid #B0C4DE;
+  background: white;
+  border-radius: 5px 5px;
+}
+.input-group {
+  margin: 20px;
+}
+
+.input-group input {
+  height: 20px;
+  width: 95%;
+  padding: 5px;
+  margin: 2px;
+  font-size: 15px;
+  font-family: verdana;
+  border-radius: 3px;
+  border: 1px solid gray;
+}
+
+.btn{
+  border: none;
+  border-radius: 5px;
+	color: white;
+	padding: 7px 14px;
+	width: 95%;
+	cursor: pointer;
+  font-size: 15px;
+  background-color: dodgerblue;
+  display: inline;
+    
+}
+
+.success{
+		  color: white; 
+  		background: dodgerblue; 
+  		border: 1px solid #3c763d;
+  		margin-bottom: 20px;
+      display: inline;
+}
+.success:hover{
+	background-color: blue;
+}
+/*a:link, a:visited {
+	border: none;
+	border-radius: 5px;
+    background-color: black;
+    color: white;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+
+}
+
+
+a:hover, a:active {
+    background-color: blue;
+}*/
